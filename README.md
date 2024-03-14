@@ -5,57 +5,66 @@ I. Autenticação e Formulário de Login:
 
 		1. Configuração do Ambiente:
 	
-			- Configurar um novo projeto React (se ainda não existir).
-			- Instalar dependências necessárias, como react, react-dom, etc.
-			- Configurar o ambiente de desenvolvimento.
+			- [X] Configurar um novo projeto React (se ainda não existir).
+			- [x] Instalar dependências necessárias, como react, react-dom, etc.
+			- [x] Configurar o ambiente de desenvolvimento.
 			
 		2. Estrutura de Componentes:
 	
-			- Criar um componente Login para a página de login.
-			- Criar subcomponentes para o formulário de login, como LoginForm, InputField, SubmitButton, etc.
+			- [X] Criar um componente Login para a página de login.
+			- [x] Criar subcomponentes para o formulário de login, como LoginForm, InputField, SubmitButton, etc.
 			
 		3. Estilização Inicial:
 	
-			- Criar um arquivo CSS ou usar um pré-processador (como Sass) para estilização.
-			- Estilizar o layout básico da página de login.
-			- Definir estilos globais e de reset, se necessário.
+			- [x] Criar um arquivo CSS ou usar um pré-processador (como Sass) para estilização.
+			- [ ] Estilizar o layout básico da página de login.
+			- [ ] Definir estilos globais e de reset, se necessário.
 			
 		4. Implementação do Formulário de Login:
 	
-			- Implementar o formulário de login dentro do componente LoginForm.
-			- Adicionar campos para entrada de usuário (por exemplo, email ou nome de usuário) e senha.
-			- Lidar com eventos de entrada (como alterações de valor nos campos) e validação básica.
-			
+			- [x] Implementar o formulário de login dentro do componente LoginForm.
+			- [x] Adicionar campos para entrada de usuário (por exemplo, email ou nome de usuário) e senha.
+			- [x] Lidar com eventos de entrada (como alterações de valor nos campos) e validação básica.
+				- [x] Utilizar Hooks
+				- [x] Criar usuário parão
+				- [x] Verificação usuário
+				
+				Aqui..... Está funcionando.
+				
+				
+				
+				
+				
 		5. Estilização do Formulário de Login:
 	
-			- Utilizar propriedades CSS para arredondar os cantos do formulário e dos campos de entrada.
-			- Adicionar uma sombra sutil aos botões de login para destacá-los.
+			- [ ] Utilizar propriedades CSS para arredondar os cantos do formulário e dos campos de entrada.
+			- [ ] Adicionar uma sombra sutil aos botões de login para destacá-los.
    
 		6. Lógica de Autenticação:
 	
-			- Criar uma função ou componente para lidar com a lógica de autenticação.
-			- Implementar a lógica para verificar as credenciais do usuário (por exemplo, em um serviço backend ou utilizando uma biblioteca de autenticação como Firebase).
+			- [ ] Criar uma função ou componente para lidar com a lógica de autenticação.
+			- [ ] Implementar a lógica para verificar as credenciais do usuário (por exemplo, em um serviço backend ou utilizando uma biblioteca de autenticação como Firebase).
 	
 		7. Integração com Backend (opcional):
 	
-			- Se necessário, integrar o formulário de login com um backend para autenticar usuários.
-			- Implementar chamadas de API para enviar dados de login e receber respostas de autenticação.
+			- [ ] Se necessário, integrar o formulário de login com um backend para autenticar usuários.
+			- [ ] Implementar chamadas de API para enviar dados de login e receber respostas de autenticação.
 			
 		8. Testes e Depuração:
 	
-			- Testar a página de login em diferentes navegadores e dispositivos para garantir a compatibilidade.
-			- Depurar problemas de layout, comportamento e lógica.
+			- [ ] Testar a página de login em diferentes navegadores e dispositivos para garantir a compatibilidade.
+			- [ ] Depurar problemas de layout, comportamento e lógica.
 	
 		9. Documentação e Comentários:
 	
-			- Documentar o código, especialmente a lógica de autenticação e a estrutura de componentes.
-			- Adicionar comentários relevantes para facilitar a manutenção futura do código.
+			- [ ] Documentar o código, especialmente a lógica de autenticação e a estrutura de componentes.
+			- [ ] Adicionar comentários relevantes para facilitar a manutenção futura do código.
 			
 		10. Finalização e Implementação:
 	
-			- Finalizar a implementação da página de login com todas as funcionalidades e estilos necessários.
-			- Integrar a página de login ao restante da aplicação, se aplicável.
-			- Fazer os ajustes finais e testes antes de implantar a página de login em produção.
+			- [ ] Finalizar a implementação da página de login com todas as funcionalidades e estilos necessários.
+			- [ ] Integrar a página de login ao restante da aplicação, se aplicável.
+			- [ ] Fazer os ajustes finais e testes antes de implantar a página de login em produção.
 
 II. Listagem de Pizzas 
 
